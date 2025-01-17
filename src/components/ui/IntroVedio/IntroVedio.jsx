@@ -29,24 +29,24 @@ const IntroVedio = () => {
           {/* --------------------------name------------------- */}
           <div>
             <p className="text-lg">Name</p>
-            <h1 className="border p-2">Amir </h1>        
+            <h1 className="border p-2">Jessica Silverton </h1>        
           </div>
           {/* ------------email------------------ */}
           <div>
             <p className="text-lg">Email</p>
-            <h1 className="border p-2">ronin@gmail.com</h1>
+            <h1 className="border p-2">Jessica@theagency.com</h1>
           </div>
           {/* -----------------phone number----------- */}
           <div>
             <p className="text-lg">Phone</p>
-            <h1 className="border p-2">+00245454542</h1>
+            <h1 className="border p-2">+16463894825</h1>
           </div>
           {/* -----------------website-------------- */}
           <div>
             <p className="text-lg">Website</p>
             <Link href={"https://proppitch.com"}> 
               <h1 className="w-full border p-2">
-                https://amir-frontend.vercel.app/home
+                www.theagency.com/jsilverton
               </h1>
             </Link>
           </div>
@@ -55,9 +55,13 @@ const IntroVedio = () => {
             <p className="text-lg">Bio</p>
 
             <h1 className="w-full border p-2">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-              tristique, nunc nec dictum aliquet, nisl ligula laoreet ligula,
-              nec ultricies justo lorem sit amet dolor.
+              Jessica Silverton is a real estate agent with The Agency. She has
+              been in the business for over 10 years and has helped hundreds of
+              clients buy and sell homes. Jessica is passionate about helping
+              people find their dream home and is dedicated to providing
+              exceptional service to all of her clients. When she is not working,
+              Jessica enjoys spending time with her family and traveling.{" "}
+          
             </h1>
           </div>
         </div>
