@@ -17,23 +17,23 @@ const Sidebar = () => {
   // Navigation items for the sidebar and tab navigation
   const navItems = [
     {
-      label: "Video One", // Label for the navigation item
+      label: "123 Maple St, Brooklyn, NY 11201", // Label for the navigation item
       path: "/vedio1", // Path for the navigation item
     },
     {
-      label: "Video Two",
+      label: "456 Elm Avenue, Brooklyn, NY 11201",
       path: "/vedio2",
     },
     {
-      label: "Video Three",
+      label: "Google Maps Location Overview 456 Elm Avenue, Brooklyn, NY 11201",
       path: "/vedio3",
     },
     {
-      label: "Video Four",
+      label: "321 Pine Road, Brooklyn, NY 11201",
       path: "/vedio4",
     },
     {
-      label: "Video Five",
+      label: "456 5th Ave, Manhattan, NY 10306",
       path: "/vedio5",
     },
   ];
