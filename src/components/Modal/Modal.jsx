@@ -25,7 +25,7 @@ const TallyModal = ({ isOpen, onClose }) => {
 
       {/* Embedded Tally Form */}
       <iframe
-        src="https://tally.so/r/3X1QyL" // URL of the Tally form
+        src="https://tally.so/r/nWDzOR" // URL of the Tally form
         width="100%"
         height="650px"
         style={{ zIndex: 50 }}
