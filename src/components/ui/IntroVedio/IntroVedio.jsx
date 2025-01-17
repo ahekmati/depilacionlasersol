@@ -29,22 +29,22 @@ const IntroVedio = () => {
           {/* --------------------------name------------------- */}
           <div>
             <p className="text-lg">Name</p>
-            <h1 className="border p-2">Amir Khan</h1>        
+            <h1 className="border p-2">Amir </h1>        
           </div>
           {/* ------------email------------------ */}
           <div>
             <p className="text-lg">Email</p>
-            <h1 className="border p-2">Amir@gmail.com</h1>
+            <h1 className="border p-2">ronin@gmail.com</h1>
           </div>
           {/* -----------------phone number----------- */}
           <div>
             <p className="text-lg">Phone</p>
-            <h1 className="border p-2">+002222222</h1>
+            <h1 className="border p-2">+00245454542</h1>
           </div>
           {/* -----------------website-------------- */}
           <div>
             <p className="text-lg">Website</p>
-            <Link href={"https://amir-frontend.vercel.app/home"}> 
+            <Link href={"https://proppitch.com"}> 
               <h1 className="w-full border p-2">
                 https://amir-frontend.vercel.app/home
               </h1>
