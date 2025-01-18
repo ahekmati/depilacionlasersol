@@ -1,0 +1,10 @@
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+    a = add
+    c = commit
+    p = push
+	# Add more aliases as needed
+	pr = "!f() { git push origin $(git symbolic-ref --short HEAD) && hub pull-request; }; f"
