@@ -10,7 +10,7 @@ const page = () => {
         }}
         streamType="on-demand"
         // The video you will create in Mux, take its playback ID and replace it here.
-        playbackId="3T01CmjbU34zW9wJUwymtQteHATay8Gc6i1xHZVLAQXA"
+        playbackId="IV7x3baQepK02pLRA024L00Z02Kn9BlK1j9ivK9dzrnXPjM"
         metadata={{
           video_id: "video-id",
           video_title: "Intro Video",
