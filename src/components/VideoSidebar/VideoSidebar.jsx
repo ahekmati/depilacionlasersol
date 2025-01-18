@@ -21,7 +21,7 @@ const Sidebar = () => {
       path: "/vedio1", // Path for the navigation item
     },
     {
-      label: "456 Elm Avenue, Brooklyn, NY 11201",
+      label: "Client Review and Testimonials",
       path: "/vedio2",
     },
     {
@@ -29,7 +29,7 @@ const Sidebar = () => {
       path: "/vedio3",
     },
     {
-      label: "321 Pine Road, Brooklyn, NY 11201",
+      label: "Why work with Jessica?",
       path: "/vedio4",
     },
     {
