@@ -25,15 +25,15 @@ const Sidebar = () => {
       path: "/vedio2",
     },
     {
-      label: "Google Maps Location Overview 456 Elm Avenue, Brooklyn, NY 11201",
+      label: "New Listing: 456 Elm Avenue Manahattan, NY 10001",
       path: "/vedio3",
     },
     {
-      label: "Why work with Jessica?",
+      label: "Why hire me as your Agent?",
       path: "/vedio4",
     },
     {
-      label: "456 5th Ave, Manhattan, NY 10306",
+      label: "Why choose our Real Estate Agency?",
       path: "/vedio5",
     },
   ];
