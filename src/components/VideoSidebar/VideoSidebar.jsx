@@ -25,7 +25,7 @@ const Sidebar = () => {
       path: "/vedio2",
     },
     {
-      label: "New Listing: 456 Elm Avenue Manahattan, NY 10001",
+      label: "New Listing",
       path: "/vedio3",
     },
     {
