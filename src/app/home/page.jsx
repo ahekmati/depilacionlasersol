@@ -1,5 +1,5 @@
 import React from "react";
-import bgFlowers from "@/image/bgFlowers.png";
+import bgFlowers from "@/image/bg-flowers.png";
 
 import Image from "next/image";
 import IntroVedio from "@/components/ui/IntroVedio/IntroVedio";
