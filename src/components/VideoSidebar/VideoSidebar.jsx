@@ -33,7 +33,7 @@ const Sidebar = () => {
       path: "/vedio4",
     },
     {
-      label: "Why choose our Real Estate Agency?",
+      label: "Real Estate Market Update 01/2025",
       path: "/vedio5",
     },
   ];
