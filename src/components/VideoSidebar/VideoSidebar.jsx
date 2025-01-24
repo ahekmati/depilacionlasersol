@@ -58,18 +58,17 @@ const Sidebar = () => {
           ))}
 
           {/* Button to open the modal */}
-          
         </ul>
       </div>
 
       {/* Tab Navigation for smaller screens */}
-      <div className="flex justify-between gap-2 p-4 md:hidden lg:mt-20">
+      <div className="justify-between gap-2 space-y-5 p-4 md:hidden lg:mt-20">
         {/* Render navigation items for smaller screens */}
         {navItems.map((item) => (
           <Link
             key={item.path}
             href={item.path}
-            className={`flex items-center gap-4 rounded-md border p-1 text-center text-sm ${
+            className={`flex items-center gap-4 rounded-md border p-2 text-center text-sm ${
               pathname === item.path ? "bg-black text-white" : "text-slate-600"
             } hover:bg-black hover:text-white`}
           >
