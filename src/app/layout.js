@@ -26,4 +26,5 @@ export default function RootLayout({ children }) {
       </body>
     </html>
   );
+  import { Analytics } from "@vercel/analytics/react"
 }
