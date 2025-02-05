@@ -14,7 +14,7 @@ const IntroVedio = () => {
           }}
           streamType="on-demand"
           // The video you will create in Mux, take its playback ID and replace it here.
-          playbackId="4NwMJrBoqwviyUf01rMCuS7DA4i3cWQ102yLQxnkTD3x8"
+          playbackId="tOlz19U3v88aItzvLmOLiuYTA79bCLL8EZzytojRtJ00"
           metadata={{
             video_id: "video-id",
             video_title: "Intro Video",
@@ -29,12 +29,12 @@ const IntroVedio = () => {
           {/* --------------------------name------------------- */}
           <div>
             <p className="text-lg">Name</p>
-            <h1 className="border p-2">Mounang</h1>        
+            <h1 className="border p-2">Florencia</h1>        
           </div>
           {/* ------------email------------------ */}
           <div>
             <p className="text-lg">Email</p>
-            <h1 className="border p-2">mounang@malabarhillcapital.com</h1>
+            <h1 className="border p-2">depilacionlasersolba@gmail.com</h1>
           </div>
           {/* -----------------phone number----------- */}
           <div>
@@ -55,7 +55,7 @@ const IntroVedio = () => {
             <p className="text-lg">Bio</p>
 
             <h1 className="w-full border p-2">
-            Malabar Hill Capital is a Houston-based real estate developer focused on land and retail strip projects in Houston and Austin. With over 30 years of experience, Malabar invests capital alongside equity partners to deliver high-quality speculative and build-to-suit projects, aiming to achieve superior risk-adjusted returns for investors.{" "}
+            {" "}
           
             </h1>
           </div>
