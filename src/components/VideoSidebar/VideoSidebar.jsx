@@ -17,23 +17,23 @@ const Sidebar = () => {
   // Navigation items for the sidebar and tab navigation
   const navItems = [
     {
-      label: "123 Maple St, Brooklyn, NY 11201", // Label for the navigation item
+      label: "Our latest offering", // Label for the navigation item
       path: "/vedio1", // Path for the navigation item
     },
     {
-      label: "Client Review and Testimonials",
+      label: "Our investment strategy in the Houston MSA Retail Market",
       path: "/vedio2",
     },
     {
-      label: "New Listing: 456 Elm Avenue Manhattan, NY 10001",
+      label: "Our track record in the Houston MSA Retail Market",
       path: "/vedio3",
     },
     {
-      label: "Why hire me as your Agent?",
+      label: "Have questions? Here are the top 5 FAQs",
       path: "/vedio4",
     },
     {
-      label: "Real Estate Market Update 01/2025",
+      label: "Houston MSA Retail Market Update 01/2025",
       path: "/vedio5",
     },
   ];
